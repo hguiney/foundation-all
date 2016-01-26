@@ -1,6 +1,6 @@
 {
   "name": "foundation-all",
-  "version": "1.2.0",
+  "version": "0.0.0",
   "description": "An amalgamation of ZURB's Foundation for Sites and Foundation for Apps, with the latter as the base.",
   "scripts": {
     "test": "gulp test",
